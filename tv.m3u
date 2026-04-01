@@ -27,7 +27,8 @@ https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr",TMC
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+https://sv1.data-stream.top/5c8685ed9afc80b3d535e1c4f4eee657a597a36e651a865e371c58312b557589/hls/tmc.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus.fr",Canal+ en clair
 https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
